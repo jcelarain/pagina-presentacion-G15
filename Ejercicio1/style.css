@@ -1,0 +1,14 @@
+p {
+    color:crimson;
+    font-size: 20px;
+}
+
+.mi-clase {
+    color:darkblue;
+    font-size: medium;
+}
+
+#mi-id {
+    color:darkgreen;
+    font-style: oblique;
+}
